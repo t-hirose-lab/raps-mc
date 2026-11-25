@@ -1,0 +1,9 @@
+{
+  "model": "RAPS-MC",
+  "regions": 26,
+  "release": "v1.0.0",
+  "release_date": "2026-11-25",
+  "repository": "https://github.com/t-hirose-lab/raps-mc",
+  "source_model_sha256": "80345e89c930c1e695d27c2b9d48939455b4418f6c6e08ecb4044fa3c997988b",
+  "parameter_files_unchanged": true
+}
